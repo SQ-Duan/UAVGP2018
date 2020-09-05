@@ -1,0 +1,4 @@
+app_id : xxxxxxxx
+app_key : xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+device : /dev/ttyTHS2
+baudrate : 230400

@@ -1,0 +1,28 @@
+cam_switch:		0
+
+nGrabPoints:		1
+tryTimes:		2
+aimedDoneNumber:	2
+timeThreshold:		480
+grabHeight:		3
+
+grab_xP: 		2.5
+grab_xI: 		0
+grab_xD: 		1.1
+
+grab_yP: 		2.5
+grab_yI: 		0
+grab_yD: 		1.1
+
+flight_xP: 		0.51
+flight_xI: 		0
+flight_xD: 		0.60
+
+flight_yP: 		0.518
+flight_yI: 		0
+flight_yD: 		0.60
+
+cam_ts:			0.35
+cam_tv:			0.6
+
+batteryThreshold:	35
